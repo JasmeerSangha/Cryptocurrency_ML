@@ -1,4 +1,4 @@
-# Cryptocurrency_ML
+# Unsupervised Machine Leanring Classification of Cryptocurrencies
 
 ## Resources
 - Data: [Cryptocurrency data](https://github.com/JasmeerSangha/Cryptocurrency_ML/blob/master/Data/crypto_data.csv)
